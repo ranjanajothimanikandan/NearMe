@@ -29,7 +29,7 @@ map.html
 <font color="red"><b>Vellore-city</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Hemapriya R (22008009)</b></font>
+<font color="blue"><b>ranjana (22003817)</b></font>
 </h3>
 <center>
 <img src="/static/image/map.png" usemap="#MyCity" height="420" width="1100">
